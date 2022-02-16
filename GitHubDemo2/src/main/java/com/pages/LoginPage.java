@@ -6,3 +6,5 @@ public class LoginPage {
 		  System.out.println("This is login method");
 	  }
 }
+
+
